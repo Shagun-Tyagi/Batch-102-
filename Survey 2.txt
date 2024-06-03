@@ -1,0 +1,66 @@
+Sports related survey Questions
+
+Q1. Gender  
+
+Male
+Female
+Other…
+Country 
+
+Q2.State 
+
+Q3.City 
+
+Q4. Do you play sports at all? 
+
+Yes
+No
+Sometimes
+
+Q5.Do you consider yourself good at any sport?  
+
+Yes
+No
+Maybe
+
+Q6.Which is your favourite Sports ?                  
+
+Q7.Do you enjoy watching live matches? 
+
+Yes
+No
+Maybe
+
+Q8.Which sports you want to play in free time  ?  
+
+
+Q9.Do you do sports regularly? 
+
+Yes
+No
+May be
+
+Q10.Who is your favorite sports player? 
+
+
+Q11.Which is your favorite team ? 
+
+Q12. Do you prefer indoor or outdoor sports? 
+
+Indoor
+Outdoor
+Both
+
+Q13.Do you agree that gender matters in sports ? 
+
+Yes
+No
+Maybe
+
+Q14.How was your first sports experience?
+
+Good
+Bad
+Satisfactory
+Marvellous
+None of the above
